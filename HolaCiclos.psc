@@ -7,9 +7,9 @@ Algoritmo HolaCiclos
 	//3. Incremento de decremento de la variable de control
 	
 	
-	var_control = 9
+	var_control = 14
 	Mientras var_control <= 10 Hacer
-		Escribir "Hola"
+		Escribir "Hola", var_control
 		var_control = var_control + 1
 	Fin Mientras
 	
